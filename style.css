@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+iframe {
+  display: none;
+  position: absolute;
+}
+
+button {
+  position: absolute;
+  top: 44%;
+  left: 44%;
+  background: red;
+  border: none;
+  font-size: 40px;
+}
